@@ -64,9 +64,6 @@ Explore the use of WaveNet for volatility forecasting.
 Incorporate significant events affecting Bitcoin movements into the models.
 Experiment with higher frequency data and different bucketing intervals.
 
-## Contributors
-Lakshmi Poojitha Lysetti (poojithalysetti@csu.fullerton.edu)
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
