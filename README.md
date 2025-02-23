@@ -1,4 +1,4 @@
-# Volatility Prediction Project
+# Volatility Prediction Using Deep Learning
 ## Overview
 The Volatility Prediction project aims to develop a predictive model to forecast the volatility of financial assets, specifically focusing on Bitcoin data. This project utilizes a combination of traditional econometric models and advanced neural network techniques to achieve accurate and reliable predictions. By comparing various models, including GARCH and LSTM networks, the project seeks to identify the most effective approach for volatility forecasting.
 
