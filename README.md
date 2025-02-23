@@ -53,11 +53,11 @@ Model Evaluation: Evaluate the models using the provided evaluation scripts.
 Analysis: Analyze the results and generate insights.
 
 ## Project Schedule
-Phase 1: Project Initiation and Planning
-Phase 2: Analyzing and Scaling the Dataset
-Phase 3: Models Implementation
-Phase 4: Cross Validation
-Phase 5: Continuous Improvement, Maintenance & Report
+- Phase 1: Project Initiation and Planning
+- Phase 2: Analyzing and Scaling the Dataset
+- Phase 3: Models Implementation
+- Phase 4: Cross Validation
+- Phase 5: Continuous Improvement, Maintenance & Report
 
 ## Future Work
 Explore the use of WaveNet for volatility forecasting.
